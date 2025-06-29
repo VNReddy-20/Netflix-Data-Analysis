@@ -256,4 +256,4 @@ Objective: Categorize content as 'Bad' if it contains 'kill' or 'voilence' and '
 -  Geographical Insights: The top countries and the average content releases by india highlight regional content distribution.
 -  Content Categorization: Categorizing content based on specific keywords helps in understanding the nature of content available on Netflix.
 
-This analysisp providing a comprehensive view of Netflix's content and can help inform content strategy and decision-making.
+This analysis providing a comprehensive view of Netflix's content and can help inform content strategy and decision-making.
